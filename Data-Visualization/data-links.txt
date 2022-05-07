@@ -1,0 +1,2 @@
+Clinical data: https://raw.githubusercontent.com/Harin23/medical-data-visualizer/main/medical_examination.csv
+Risk Factors Data: https://raw.githubusercontent.com/AuthEceSoftEng/emb-ntua-workshop/main/2_RiskFactors/data/riskFactorData.csv
